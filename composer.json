@@ -15,7 +15,7 @@
 	},
 	"autoload": {
 		"psr-4": {
-			"Sellastica\\Thumbnailer\\": "src/"
+			"Sellastica\\GoPay\\": "src/"
 		}
 	}
 }
